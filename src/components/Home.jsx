@@ -63,8 +63,8 @@ const HomeComp = styled.div`
                 }
                 .input_control button{
                     position:absolute;
-                    right:0;
-                    top:50%;
+                    right:34%;
+                    top:170%;
                     transform:translateY(-50%);
                     border:2.3px solid #d9d9d9;
                 }
