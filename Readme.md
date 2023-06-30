@@ -33,3 +33,7 @@ To get started with the Anime Website locally, follow these steps:
 
 ## Task Remaining:
  Making the Anime and CharImages component responsive
+
+![ezgif com-optimize](https://github.com/utk145/anime-vite-website/assets/122993091/49f301af-20b4-4cea-a142-c413970c491b)
+
+Here's the live preview link : [Anime - Addaa](https://ut-anime-adda.netlify.app/)
